@@ -13,7 +13,7 @@ new_person.addresses_attributes={
     "street_address_2"=>"Floor 2",
     "city"=>"NYC",
     "state"=>"NY",
-    "zipcode"=>"10004",
+    "zipcode"=>"10004", 
     "address_type"=>"work1"
     },
   "1"=>{
@@ -25,4 +25,4 @@ new_person.addresses_attributes={
     "address_type"=>"work2"
     }
   }
-  new_person.save 
+  new_person.save
